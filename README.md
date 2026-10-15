@@ -1,58 +1,189 @@
-# Hello, I'm Bosah
-<a href="https://www.linkedin.com/in/bosah-onyenyeonwu-9b64191ba" target="_blank">Connect with me on LinkedIn</a><br>
-[Brief Introduction - Remove this afterwards]
+# 👋 Hi, I'm Bosah Onyenyeonwu
 
-I hold both the Google Cybersecurity Certification and the Security+ Certification, with a strong passion for technology and a commitment to solving complex challenges. My focus is on leveraging my skills to tackle intricate problems and contribute to innovative solutions in the cybersecurity field.
-## Objective
-[Provide Objective - Remove this afterwards]]
+### 🛡️ Aspiring SOC Analyst | Cybersecurity Analyst | Cloud Security
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bosah-onyenyeonwu-9b64191ba)
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 👨‍💻 About Me
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+I'm a **Computer Information Systems (CIS)** student with a strong focus on **cybersecurity, security operations, network security, and cloud security**.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+I hold the **CompTIA Security+**, **CompTIA Network+**, and **Google Cybersecurity Professional Certificate**, along with hands-on training in AWS and security operations.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+I'm building practical cybersecurity experience through labs and projects involving **SIEM monitoring, log analysis, network traffic analysis, threat detection, incident response, Linux, and AWS cloud security**.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+My current goal is to begin my cybersecurity career as a **SOC Analyst / Cybersecurity Analyst** while continuing to develop the cloud security skills needed to progress into **Cloud Security Engineering**.
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+---
 
-## Projects
-- Detection Lab
-- SOC Automation P
+## 🎯 Cybersecurity Focus
+
+- 🔍 Security Monitoring & Threat Detection
+- 📊 SIEM & Log Analysis
+- 🌐 Network Traffic Analysis
+- 🚨 Incident Detection & Response
+- 🐧 Linux Security
+- ☁️ AWS Cloud Security
+- 🔐 Identity & Access Management
+- 🤖 Security Automation
+- 🏗️ Infrastructure as Code
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Skills |
+|---|---|
+| **SIEM & Monitoring** | Splunk, Elastic Stack, Log Analysis, Alert Investigation |
+| **Network Security** | Wireshark, Nmap, TCP/IP, DNS, Firewall Analysis |
+| **Incident Response** | Alert Triage, Investigation, IOC Analysis, Incident Documentation |
+| **Cloud Security** | AWS, IAM, VPC, Security Groups, CloudWatch, S3 |
+| **Operating Systems** | Linux, Ubuntu, Windows |
+| **Digital Forensics** | Volatility 3, Sleuth Kit |
+| **Automation / IaC** | Terraform, Bash |
+| **Security Frameworks** | MITRE ATT&CK |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 🔎 Security Operations / SIEM
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+## 🌐 Network Security
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-0080FF?style=for-the-badge" />
+</p>
+
+## ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 💻 Operating Systems & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Certifications & Training
+
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Training-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **Google Cybersecurity Professional Certificate**
+- **Cisco Cyber Threat Management**
+- **SOC Apprentice**
+- **AWS Solutions Architect Training**
+
+---
+
+# 🚀 Cybersecurity Projects
+
+My repositories focus on developing practical security skills through hands-on labs and real-world security scenarios.
+
+### 🔵 SIEM Detection Lab
+**Skills:** Splunk • Log Analysis • Threat Detection • Alert Investigation
+
+Built a SIEM environment to collect and analyze security logs, investigate suspicious activity, and practice identifying potential security incidents.
+
+➡️ **[View Project](YOUR-PROJECT-LINK)**
+
+---
+
+### 🌐 Network Traffic Analysis Lab
+**Skills:** Wireshark • TCP/IP • DNS • Network Security
+
+Captured and analyzed network traffic using Wireshark to identify protocols, investigate suspicious connections, and understand network behavior.
+
+➡️ **[View Project](YOUR-PROJECT-LINK)**
+
+---
+
+### 🚨 SOC Investigation Lab
+**Skills:** SIEM • Alert Triage • Incident Response • MITRE ATT&CK
+
+Investigated simulated security alerts, analyzed indicators of compromise, documented findings, and mapped attacker behavior to the MITRE ATT&CK framework.
+
+➡️ **[View Project](YOUR-PROJECT-LINK)**
+
+---
+
+### ☁️ AWS Cloud Security Lab
+**Skills:** AWS • IAM • VPC • Security Groups • Cloud Security
+
+Built and secured AWS infrastructure using IAM permissions, VPC networking, security groups, EC2, S3, and cloud security best practices.
+
+➡️ **[View Project](YOUR-PROJECT-LINK)**
+
+---
+
+### 🏗️ Terraform AWS Security Lab
+**Skills:** Terraform • AWS • Infrastructure as Code • Cloud Security
+
+Used Terraform to provision AWS infrastructure while developing practical Infrastructure as Code and cloud security skills.
+
+➡️ **[View Project](YOUR-PROJECT-LINK)**
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously strengthening my skills in:
+
+- Advanced Splunk & SIEM investigations
+- SOC alert triage
+- Threat detection
+- Incident response
+- AWS security
+- Terraform
+- Linux
+- Security automation
+- Cloud security engineering
+
+---
+
+## 🎯 Career Goals
+
+I'm currently pursuing opportunities in:
+
+**SOC Analyst • Cybersecurity Analyst • Security Operations • Cloud Security**
+
+My long-term goal is to combine my security operations experience with AWS and Infrastructure as Code skills to grow into a **Cloud Security Engineer**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with cybersecurity professionals, recruiters, and others working in security operations and cloud security.
+
+💼 **LinkedIn:** [Bosah Onyenyeonwu](https://www.linkedin.com/in/bosah-onyenyeonwu-9b64191ba)
+
+---
+
+> **Continuous learning. Practical experience. Real-world problem solving.**
