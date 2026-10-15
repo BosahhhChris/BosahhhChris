@@ -40,11 +40,10 @@ My current goal is to begin my cybersecurity career as a **SOC Analyst / Cyberse
 | **Network Security** | Wireshark, Nmap, TCP/IP, DNS, Firewall Analysis |
 | **Incident Response** | Alert Triage, Investigation, IOC Analysis, Incident Documentation |
 | **Cloud Security** | AWS, IAM, VPC, Security Groups, CloudWatch, S3 |
-| **Operating Systems** | Linux, Ubuntu, Windows |
-| **Digital Forensics** | Volatility 3, Sleuth Kit |
+| **Operating Systems** | Linux, Windows |
 | **Automation / IaC** | Terraform, Bash |
 | **Security Frameworks** | MITRE ATT&CK |
-| **Version Control** | Git, GitHub |
+
 
 ---
 
@@ -88,17 +87,15 @@ My current goal is to begin my cybersecurity career as a **SOC Analyst / Cyberse
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
+  ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Training-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 - **CompTIA Security+**
-- **CompTIA Network+**
-- **Google Cybersecurity Professional Certificate**
+- **CompTIA CYSA+**
 - **Cisco Cyber Threat Management**
-- **SOC Apprentice**
 - **AWS Solutions Architect Training**
 
 ---
