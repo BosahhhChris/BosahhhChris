@@ -8,13 +8,16 @@
 
 ## 👨‍💻 About Me
 
+
 I'm a **Computer Information Systems (CIS)** student with a strong focus on **cybersecurity, security operations, network security, and cloud security**.
 
-I hold the **CompTIA Security+**, **CompTIA Network+**, and **Google Cybersecurity Professional Certificate**, along with hands-on training in AWS and security operations.
+I hold the **CompTIA Security+** and **CompTIA CySA+** certifications, along with hands-on training in **AWS, security operations, and threat detection**.
 
-I'm building practical cybersecurity experience through labs and projects involving **SIEM monitoring, log analysis, network traffic analysis, threat detection, incident response, Linux, and AWS cloud security**.
+I'm building practical cybersecurity experience through **TryHackMe labs, personal projects, and hands-on security exercises** involving **SIEM monitoring, log analysis, network traffic analysis, threat detection, incident response, Linux, and AWS cloud security**.
 
-My current goal is to begin my cybersecurity career as a **SOC Analyst / Cybersecurity Analyst** while continuing to develop the cloud security skills needed to progress into **Cloud Security Engineering**.
+Through these labs, I continue to strengthen my ability to **investigate security alerts, analyze network traffic, identify suspicious activity, and understand attacker techniques and defensive strategies**.
+
+My current goal is to begin my cybersecurity career as a **SOC Analyst / Cybersecurity Analyst**, while continuing to develop my **AWS, automation, and cloud security skills** to progress toward **Cloud Security Engineering**.
 
 ---
 
@@ -88,7 +91,6 @@ My current goal is to begin my cybersecurity career as a **SOC Analyst / Cyberse
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Training-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
