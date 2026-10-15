@@ -87,7 +87,7 @@ My current goal is to begin my cybersecurity career as a **SOC Analyst / Cyberse
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
-  ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Training-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
